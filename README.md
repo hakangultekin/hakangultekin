@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Hakan Gültekin
 
-<!--
-**hakangultekin/hakangultekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building scalable backend systems, microservices, and modern web applications.
 
-Here are some ideas to get you started:
+I enjoy designing clean architectures, high-performance APIs, and distributed systems. Most of my work revolves around backend development with .NET, but I also work with Java, modern frontend frameworks, and cloud-native tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- .NET / ASP.NET Core
+- Java
+- RESTful API Design
+- Microservice Architecture
+- Clean Architecture
+- Realtime Systems (WebSockets / SignalR)
+
+### Frontend
+- React
+- Next.js
+- React Native
+- TypeScript
+
+### Databases
+- PostgreSQL
+- SQL Server
+- Redis
+- Cloud Object Storage (S3 / R2)
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD pipelines
+- Cloudflare (CDN / R2)
+
+### Architecture & Engineering
+- Distributed Systems
+- Scalable System Design
+- API-first development
+- Performance optimization
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/hakan-gultekinn/
+- Email: hakangultekin26@gmail.com
+
+---
