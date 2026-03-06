@@ -6,46 +6,103 @@ I enjoy designing clean architectures, high-performance APIs, and distributed sy
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+💻 Backend-focused Full-Stack Developer  
+⚙️ Experienced in Microservice Architecture & Distributed Systems  
+🌐 Building modern web apps with React & Next.js  
+📡 Developing realtime communication systems (WebRTC, SignalR, WebSockets)  
+📹 Integrating video & chat platforms (Zoom, Agora, ZEGOCLOUD)  
+⚡ Passionate about performance optimization and scalable systems  
+🧠 Interested in System Design & Software Architecture  
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend
-- .NET / ASP.NET Core
-- Java
-- RESTful API Design
-- Microservice Architecture
-- Clean Architecture
-- Realtime Systems (WebSockets / SignalR)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
+
+- .NET / ASP.NET Core  
+- Java / Spring  
+- RESTful API Design  
+- Microservice Architecture  
+- Clean Architecture  
+- gRPC  
+
+---
+
+### Realtime Communication
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" height="40"/>
+</p>
+
+- SignalR  
+- WebRTC  
+- WebSockets  
+- Video & Chat Integrations (Zoom, Agora, ZEGOCLOUD)
+
+---
 
 ### Frontend
-- React
-- Next.js
-- React Native
-- TypeScript
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
+
+- React  
+- Next.js  
+- React Native  
+- TypeScript  
+
+---
 
 ### Databases
-- PostgreSQL
-- SQL Server
-- Redis
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+</p>
+
+- PostgreSQL  
+- SQL Server  
+- Redis  
 - Cloud Object Storage (S3 / R2)
 
+---
+
 ### DevOps & Cloud
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD pipelines
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
+
+- Docker  
+- Kubernetes  
+- GitHub Actions  
+- CI/CD pipelines  
 - Cloudflare (CDN / R2)
 
+---
+
 ### Architecture & Engineering
-- Distributed Systems
-- Scalable System Design
-- API-first development
-- Performance optimization
+
+- Distributed Systems  
+- Scalable System Design  
+- API-first development  
+- Performance optimization  
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/hakan-gultekinn/
+- LinkedIn: https://www.linkedin.com/in/hakan-gultekinn/  
 - Email: hakangultekin26@gmail.com
-
----
