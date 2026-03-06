@@ -40,7 +40,7 @@ I enjoy designing clean architectures, high-performance APIs, and distributed sy
 ### Realtime Communication
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/webrtc" height="40"/>
 </p>
 
 - SignalR  
