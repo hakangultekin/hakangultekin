@@ -9,11 +9,9 @@ I enjoy designing clean architectures, high-performance APIs, and distributed sy
 ## 🚀 About Me
 
 💻 Backend-focused Full-Stack Developer  
-⚙️ Experienced in Microservice Architecture & Distributed Systems  
 🌐 Building modern web apps with React & Next.js  
 📡 Developing realtime communication systems (WebRTC, SignalR, WebSockets)  
-📹 Integrating video & chat platforms (Zoom, Agora, ZEGOCLOUD)  
-⚡ Passionate about performance optimization and scalable systems  
+📹 Integrating video & chat platforms (Zoom, Agora, ZEGOCLOUD)
 🧠 Interested in System Design & Software Architecture  
 
 ---
@@ -90,15 +88,6 @@ I enjoy designing clean architectures, high-performance APIs, and distributed sy
 - GitHub Actions  
 - CI/CD pipelines  
 - Cloudflare (CDN / R2)
-
----
-
-### Architecture & Engineering
-
-- Distributed Systems  
-- Scalable System Design  
-- API-first development  
-- Performance optimization  
 
 ---
 
