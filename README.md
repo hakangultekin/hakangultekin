@@ -10,6 +10,7 @@ I enjoy designing clean architectures, high-performance APIs, and distributed sy
 
 💻 Backend-focused Full-Stack Developer  
 🌐 Building modern web apps with React & Next.js  
+📱 Enthusiastic about mobile development and building cross-platform apps with React Native
 📡 Developing realtime communication systems (WebRTC, SignalR, WebSockets)  
 📹 Integrating video & chat platforms (Zoom, Agora, ZEGOCLOUD)
 🧠 Interested in System Design & Software Architecture  
